@@ -1,6 +1,7 @@
 # -Diamond-Price-Prediction
 Neural network 
 
+# for DiamondPricePrediction.ipynb
 
 It teaches the ten different properties of diamonds in the diamond data set to the machine with the help of 
 artificial neural networks and predicts the price of the diamonds whose properties are given.
