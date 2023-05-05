@@ -1,8 +1,4 @@
 # -Diamond-Price-Prediction
-Neural network 
-
-# for DiamondPricePrediction.ipynb
-
 It teaches the ten different properties of diamonds in the diamond data set to the machine with the help of 
 artificial neural networks and predicts the price of the diamonds whose properties are given.
 During the construction phase of the project, Python programming language was used through the Anaconda Jupyter 
